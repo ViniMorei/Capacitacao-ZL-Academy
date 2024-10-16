@@ -7,3 +7,6 @@
 [submodule "Produtos-POO"]
 	path = Produtos-POO
 	url = https://github.com/ViniMorei/Produtos_POO.git
+[submodule "Forms-POO"]
+	path = Forms-POO
+	url = https://github.com/ViniMorei/Forms_POO.git
