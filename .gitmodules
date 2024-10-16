@@ -1,3 +1,6 @@
 [submodule "Automacao-Climas"]
 	path = Automacao-Climas
 	url = https://github.com/ViniMorei/Automacao_Climas.git
+[submodule "Monitoramento-Jogos"]
+	path = Monitoramento-Jogos
+	url = https://github.com/ViniMorei/Monitoramento_Jogos.git
