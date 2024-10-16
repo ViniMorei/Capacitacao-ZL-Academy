@@ -4,3 +4,6 @@
 [submodule "Monitoramento-Jogos"]
 	path = Monitoramento-Jogos
 	url = https://github.com/ViniMorei/Monitoramento_Jogos.git
+[submodule "Produtos-POO"]
+	path = Produtos-POO
+	url = https://github.com/ViniMorei/Produtos_POO.git
