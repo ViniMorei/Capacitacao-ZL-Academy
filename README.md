@@ -16,9 +16,9 @@ Iniciei a graduação em Engenharia de _Software_ no Instituto Federal do Amazon
 
 Esta seção apresenta brevemente os diversos projetos desenvolvidos por mim, exercícios para aprendizado do conteúdo e avaliações.
 
-## Módulo de _BotCity_ + _Python_
+## Módulo de **_BotCity_ + _Python_** 🦾
 
-### [Automação de Climas](https://github.com/ViniMorei/Automacao_Climas.git)
+### [Automação de Climas ⛅](https://github.com/ViniMorei/Automacao_Climas.git)
 - **Descrição**: Consulta a uma _API_ governamental que retorna dados metropolitanos, e consulta da previsão do tempo semanal para cada cidade.
 - **Tecnologias**: _API_ governamental, requisições _HTTP_, ambiente virtual _Conda_.
 - **Funcionalides**:
@@ -27,7 +27,7 @@ Esta seção apresenta brevemente os diversos projetos desenvolvidos por mim, ex
   - Exibir no terminal a previsão semanal de diversas cidades.
 
 
-### [Monitoramento de Jogos](https://github.com/ViniMorei/Monitoramento_Jogos.git)
+### [Monitoramento de Jogos 🎮](https://github.com/ViniMorei/Monitoramento_Jogos.git)
 - **Descrição**: Realização de _WebScraping_ para recuperar os dados referentes a alguns jogos na _PS Store_ e exibir gráficos de variação do preço ao longo do tempo.
 - **Tecnologias**: _JSON_, _WebBot_, _Excel_, _Matplotlib_, _Pandas_, ambiente virtual _Conda_.
 - **Funcionalidades**:
@@ -35,20 +35,29 @@ Esta seção apresenta brevemente os diversos projetos desenvolvidos por mim, ex
   - Navegar na loja virtual _PS Store_ e recuperar preços de jogos.
   - Gerar gráficos com os preços históricos e o preço atual.
 
-## Módulo de Conceito de Orientação a Objetos
+## Módulo de **Conceito de Orientação a Objetos** 🎲
 
-### [Produtos-POO](https://github.com/ViniMorei/Produtos_POO.git)
+### [Produtos-POO 📦](https://github.com/ViniMorei/Produtos_POO.git)
 - **Descrição**: Utilização de uma _API_ _Flask_ e um _WebBot_ para automatizar a instanciação de objetos utilizando um formulário _HTML_.
-- **Tecnologias**: _Flask_, _HTML_.
+- **Tecnologias**: _Flask_, _HTML_, _BotCity_.
 - **Funcionalidades**:
   - Cadastrar diversos dados no formulário.
   - Instanciar objetos ao clicar no _submit_.
   - Salvar tudo em um _txt_.
 
-### [Forms-POO](https://github.com/ViniMorei/Forms_POO.git)
+### [Forms-POO 📝](https://github.com/ViniMorei/Forms_POO.git)
 - **Descrição**: Utilização dos conceitos de herança e encapsulamento para manipular formulários _HTML_ utilizando um _WebBot_.
-- **Tecnologias**: _Flask_, _HTML_.
+- **Tecnologias**: _Flask_, _HTML_, _BotCity_.
 - **Funcionalidades**:
   - Inicialização de um _WebBot_ na superclasse.
   - Navegação no formulário através da manipulação dos objetos.
 
+### [Veiculos-POO 🚗](https://github.com/ViniMorei/Veiculos_POO.git)
+- **Descrição**: Gerenciamento de um sistema de aluguel de veículos utilizando _templates_ _HTML_ acessados por um _WebBot_ que utiliza uma _API_ _Flask_ para manipular um banco de dados _MySQL_.
+- **Tecnologias**: _MySQL_, _SQLAlchemy_, _Flask_, _HTML_, _JavaScript_, _AJAX_, _BotCity_.
+- **Funcionalidades**:
+  - Modelagem e manipulação de banco com _SQLAlchemy_.
+  - Integração entre rotas e serviços _Flask_ com funcões do _JavaScript_ e _AJAX_.
+  - Operações de _CRUD_ em banco de dados.
+  - Cálculo de aluguel de veículos de acordo com número de dias.
+  - Aplicar aumento em todos os veículos.

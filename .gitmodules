@@ -10,3 +10,6 @@
 [submodule "Forms-POO"]
 	path = Forms-POO
 	url = https://github.com/ViniMorei/Forms_POO.git
+[submodule "Veiculos-POO"]
+	path = Veiculos-POO
+	url = https://github.com/ViniMorei/Veiculos_POO.git
