@@ -1,16 +1,6 @@
-# Vinicius Moreira Araújo
+# Capacitação ZL _Academy_
 
 Este repositório tem por objetivo centralizar todos os meus projetos públicos que foram feitos durante o andamento da capacitação _DX ZL Academy - Digital Transformation_, uma parceria da _LG_ com o Polo de Inovação do IFAM e a FAEPI. Os projetos estão adicionados como submódulos no repositório e referenciados com _link_ direto neste _README_, na seção "Projetos", categorizados por módulo (disciplina).
-
-
-## Sobre mim
-
-<p align=center>
-    <img src="resources/vini.jpg" width=150>
-</p>
-
-Iniciei a graduação em Engenharia de _Software_ no Instituto Federal do Amazonas em 2022, aos 17 anos, e desde então meu interesse por tecnologias de _back-end_ e processos de _ETL_ tem crescido, com foco em _Python_ e _Power BI_. Tenho como paixão pessoal o mundo dos jogos, onde também tenho muito interesse em começar a desenvolver. Além disso, também gosto de produzir bonecas de crochê de personagens de _animê_ ou da cultura _pop_. Estou sempre em busca de crescimento e novas experiências, tanto na minha carreira quanto em meus _hobbies_.
-
 
 # Projetos
 
